@@ -1,0 +1,36 @@
+﻿  main.cpp
+D:\C++_projects\Among_stars_2\main.cpp(9,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(22,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(83,21): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(84,22): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(209,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(209,66): warning C4244:         with
+D:\C++_projects\Among_stars_2\main.cpp(209,66): warning C4244:         [
+D:\C++_projects\Among_stars_2\main.cpp(209,66): warning C4244:             T=float
+D:\C++_projects\Among_stars_2\main.cpp(209,66): warning C4244:         ]
+D:\C++_projects\Among_stars_2\main.cpp(212,53): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(244,53): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(244,53): warning C4244:         with
+D:\C++_projects\Among_stars_2\main.cpp(244,53): warning C4244:         [
+D:\C++_projects\Among_stars_2\main.cpp(244,53): warning C4244:             T=float
+D:\C++_projects\Among_stars_2\main.cpp(244,53): warning C4244:         ]
+D:\C++_projects\Among_stars_2\main.cpp(250,54): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(250,54): warning C4244:         with
+D:\C++_projects\Among_stars_2\main.cpp(250,54): warning C4244:         [
+D:\C++_projects\Among_stars_2\main.cpp(250,54): warning C4244:             T=float
+D:\C++_projects\Among_stars_2\main.cpp(250,54): warning C4244:         ]
+D:\C++_projects\Among_stars_2\main.cpp(257,54): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(257,54): warning C4244:         with
+D:\C++_projects\Among_stars_2\main.cpp(257,54): warning C4244:         [
+D:\C++_projects\Among_stars_2\main.cpp(257,54): warning C4244:             T=float
+D:\C++_projects\Among_stars_2\main.cpp(257,54): warning C4244:         ]
+D:\C++_projects\Among_stars_2\main.cpp(264,53): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(264,53): warning C4244:         with
+D:\C++_projects\Among_stars_2\main.cpp(264,53): warning C4244:         [
+D:\C++_projects\Among_stars_2\main.cpp(264,53): warning C4244:             T=float
+D:\C++_projects\Among_stars_2\main.cpp(264,53): warning C4244:         ]
+D:\C++_projects\Among_stars_2\main.cpp(365,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(369,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(398,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\C++_projects\Among_stars_2\main.cpp(400,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Among_stars_2.vcxproj -> D:\C++_projects\Among_stars_2\Debug\Among_stars_2.exe
